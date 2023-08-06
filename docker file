@@ -1,0 +1,3 @@
+FROM nginx
+USER eshwar
+COPY /usr/share/nginx/html
